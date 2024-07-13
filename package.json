@@ -1,0 +1,29 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Work in progress discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewtzaw/discordbot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Andrew Zaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewtzaw/discordbot/issues"
+  },
+  "homepage": "https://github.com/andrewtzaw/discordbot#readme",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  },
+  "devDependencies": {
+    "eslint": "^9.7.0"
+  }
+}
